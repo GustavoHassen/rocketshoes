@@ -46,4 +46,4 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 
 This project is under the MIT license. See the [LICENSE](https://github.com/gustavohassen/gobarber-api/blob/master/LICENCE)
 
-Made by Gustavo Hassen dos Santos [Linkedin](https://www.linkedin.com/in/gustavohassen
+Made by Gustavo Hassen dos Santos [Linkedin](https://www.linkedin.com/in/gustavo-hassen-dos-santos/)
